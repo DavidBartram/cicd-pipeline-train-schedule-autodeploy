@@ -1,7 +1,7 @@
 {
 	"trains": [
 		{
-			"name": "Hogwarts Express",
+			"name": "Hogwartibus Expressibus",
 			"stops": [
 				{
 					"station": "Sycamore",
